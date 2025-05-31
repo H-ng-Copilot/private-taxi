@@ -319,6 +319,7 @@
             "time": "时间",
             "price": "价格",
             "decrease": "减少",
+            "min_distance_allow": "Min distance allowed",
             "location_text": "接送地点",
             "destination_text": "目的地",
             "ip": "IP地址",

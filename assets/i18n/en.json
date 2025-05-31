@@ -328,6 +328,7 @@
             "time": "Time",
             "price": "Price",
             "decrease": "Decrease",
+            "min_distance_allow": "Min distance allowed",
             "location_text": "Pick-up location",
             "destination_text": "Destination",
             "ip": "IP address",

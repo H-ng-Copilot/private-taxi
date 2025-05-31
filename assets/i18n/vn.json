@@ -325,6 +325,7 @@
             "time": "Giờ",
             "price": "Giá",
             "decrease": "Giảm",
+            "min_distance_allow": "Khoảng cách tối thiểu cho phép",
             "location_text": "Điểm đón",
             "destination_text": "Điểm đến",
             "ip": "IP",
